@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Food Delivery Web-App<br><br>👯 **I’m looking to collaborate on:**  <br>Frontend Projects<br><br>🌱 **I’m currently learning:**  <br>BSc IT & Backend for Web Development<br><br>💬 **Ask me about:**  <br>HTML, CSS, JavaScript, React, Python, C++ and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love playing games.
+🔭 **I’m currently working on:**  <br>Web-App<br><br>👯 **I’m looking to collaborate on:**  <br>Frontend Projects<br><br>🌱 **I’m currently learning:**  <br>BSc IT & Backend for Web Development<br><br>💬 **Ask me about:**  <br>HTML, CSS, JavaScript, React, Python, C++ and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love playing games.
 
 
 # 💻 Tech Stack:
