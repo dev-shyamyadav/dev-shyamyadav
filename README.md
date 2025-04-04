@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Expence Tracker App<br><br>👯 **I’m looking to collaborate on:**  <br>MERN Stack Projects<br><br>🌱 **I’m currently learning:**  <br>Java Spring Boot and App Development<br><br>💬 **Ask me about:**  <br>HTML, CSS, JavaScript, React.js, Python, C++, SQL and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love playing games.
+🔭 **I’m currently working on:**  <br>Expence Tracker App<br><br>👯 **I’m looking to collaborate on:**  <br>MERN Stack Projects<br><br>🌱 **I’m currently learning:**  <br>Java Spring Boot<br><br>💬 **Ask me about:**  <br>HTML, CSS, JavaScript, React.js, Python, C++, SQL and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love playing games.
 
 
 # 💻 Tech Stack:
